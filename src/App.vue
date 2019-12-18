@@ -42,8 +42,5 @@ export default {
 </script>
 
 <style lang="css" scoped>
-  .main-container {
-    display: flex;
-    justify-content: space-between;
-  }
+
 </style>
